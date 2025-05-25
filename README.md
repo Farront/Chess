@@ -1,5 +1,5 @@
 # Chess
-Cờ vua đơn giản dựa trên mẫu của RyiShow, chỉnh sửa và cập nhập AI + Player 2
+Cờ vua đơn giản Java dựa trên mẫu của RyiShow, chỉnh sửa và cập nhập AI + Player 2
 
 Chạy chương trình thông qua Main.java trong package main
 Chọn Play with AI để chơi với máy
